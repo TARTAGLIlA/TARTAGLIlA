@@ -1,9 +1,9 @@
 <p align="center">
- <img src="https://files.catbox.moe/f9m7ml.png" alt="header1">
+ <img src="https://files.catbox.moe/a8333p.png" alt="header1">
 </p>
 
 <p align="center">
- <img src="https://files.catbox.moe/k7t8cz.gif" alt="wbruh">
+ <img src="https://files.catbox.moe/x38wsa.gif" alt="wbruh">
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
- <img src="https://files.catbox.moe/0y6ks3.png" alt="header2">
+ <img src="https://files.catbox.moe/wpx936.png" alt="header2">
 </p>
