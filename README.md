@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
- <img src="https://files.catbox.moe/x38wsa.gif" alt="wbruh">
+<img src="https://komarev.com/ghpvc/?username=TARTAGLIlA&color=red&style=flat-square&label=🐋" alt="Profile Views" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TARTAGLIlA&color=red&style=flat-square&label=🐋" alt="Profile Views" />
+ <img src="https://files.catbox.moe/x38wsa.gif" alt="wbruh">
 </p>
 
 <p align="center">
