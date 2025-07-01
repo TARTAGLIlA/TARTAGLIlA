@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  WIP !
+![](https://komarev.com/ghpvc/?username=TARTAGLIlA&label=🐬)
 </p>
 
 <p align="center">
